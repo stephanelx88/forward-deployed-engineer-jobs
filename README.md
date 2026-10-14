@@ -1,6 +1,6 @@
 # Forward Deployed Engineer jobs dataset
 
-Every open Forward Deployed Engineer (FDE) role that [FDE Times](https://fdetimes.net/en/jobs/) tracks, collected from the public
+Every open Forward Deployed Engineer (FDE) role that [FDE Times](https://fdetimes.net/en/jobs/) tracks, collected mostly from the public
 Greenhouse, Ashby and Lever career boards of the companies that hire FDEs. Updated daily.
 
 **As of 2026-10-14: 459 open roles at 54 companies.** Median posted base pay (midpoint of the range) across 179 US posts: **$216k**.
