@@ -1,7 +1,7 @@
 id,company,title,location,country,seniority,pay_low_usd,pay_high_usd,first_seen,fdetimes_url
 aitomatic-linkedin-4470969615,Aitomatic,Forward-Deployed Engineer,"Ho Chi Minh City, Vietnam",VN,mid,,,2026-10-07,https://fdetimes.net/en/jobs/aitomatic-linkedin-4470969615/
 assemblyai-4747368005,AssemblyAI,"Forward Deployed Engineer, Triage (Singapore)",Singapore,SG,mid,,,2026-10-23,https://fdetimes.net/en/jobs/assemblyai-4747368005/
-blackrock-r266862,BlackRock,"Forward Deployed Business Analyst, Associate/ Vice President – BTO","Singapore, Singapore",SG,early,,,2026-10-21,https://fdetimes.net/en/jobs/blackrock-r266862/
+blackrock-r266862,BlackRock,"Forward Deployed Business Analyst, Associate – BTO","Singapore, Singapore",SG,early,,,2026-10-21,https://fdetimes.net/en/jobs/blackrock-r266862/
 cisco-2027880,Cisco,Forward Deployed Engineer,"Bangalore, India",IN,mid,,,2026-10-21,https://fdetimes.net/en/jobs/cisco-2027880/
 cisco-2027881,Cisco,Senior Forward Deployed Engineer,"Bangalore, India",IN,senior,,,2026-10-21,https://fdetimes.net/en/jobs/cisco-2027881/
 hpe-1216217,Hewlett Packard Enterprise,Senior Systems/Software Engineer (FDE/SRE),"Bengaluru, Karnātaka, India",IN,senior,,,2026-10-21,https://fdetimes.net/en/jobs/hpe-1216217/
@@ -9,7 +9,6 @@ mastercard-r-292450,Mastercard,Lead Forward Deployed Engineer (AI),"Pune, India"
 nvidia-jr2026694,NVIDIA,"Senior Forward Deployed Architect, Generative AI","India, Bengaluru",IN,senior,,,2026-10-21,https://fdetimes.net/en/jobs/nvidia-jr2026694/
 pwc-739673wd,PwC,Risk Services - AI Factory: Forward Deployed Engineer (Senior Associate / Manager / Senior Manager),Singapore,SG,early,,,2026-10-21,https://fdetimes.net/en/jobs/pwc-739673wd/
 redhat-r-058510,Red Hat,Principal Forward Deployed Engineer - AI PlatformPrincipal Forward Deployed Engineer - AI Platform/Kubernetes/Pytorch,Singapore,SG,senior,,,2026-10-21,https://fdetimes.net/en/jobs/redhat-r-058510/
-salesforce-jr346858,Salesforce,Forward Deployed Engineer,Singapore - Singapore,SG,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr346858/
 salesforce-jr352273,Salesforce,Senior Forward Deployed Engineer,Australia - Sydney,AU,senior,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr352273/
 cognition-4bf50602-b880-40d2-9c8c-18d4372a8b02,Cognition,Forward Deployed Engineer - ANZ,Sydney,AU,mid,,,2026-10-21,https://fdetimes.net/en/jobs/cognition-4bf50602-b880-40d2-9c8c-18d4372a8b02/
 cognition-b73fd66a-f43b-4240-95c2-7a76b4ffb0c6,Cognition,Forward Deployed Engineer - APAC,Singapore,SG,mid,,,2026-10-21,https://fdetimes.net/en/jobs/cognition-b73fd66a-f43b-4240-95c2-7a76b4ffb0c6/
@@ -213,6 +212,9 @@ openai-7b90b83c-ec28-4e65-a235-6675e37b91c3,OpenAI,Forward Deployed Software Eng
 openai-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f,OpenAI,"Forward Deployed Software Engineer, Gov","Washington, DC",US,mid,,,2026-10-07,https://fdetimes.net/en/jobs/openai-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f/
 openai-5bbc43df-558a-4e4b-a0cf-83f185c664d7,OpenAI,"Manager, Forward Deployed Engineering- NYC",New York City,US,senior,,,2026-10-07,https://fdetimes.net/en/jobs/openai-5bbc43df-558a-4e4b-a0cf-83f185c664d7/
 ramp-b614563f-3ce6-4dca-b5ba-0e5a6c8bda27,Ramp,"Software Engineer, Forward Deployed AI Solutions","New York, NY (HQ)",US,mid,,,2026-10-07,https://fdetimes.net/en/jobs/ramp-b614563f-3ce6-4dca-b5ba-0e5a6c8bda27/
+salesforce-jr358258,Salesforce,Lead AI Forward Deployed Engineer,Italy - Milan,,senior,,,2026-10-27,https://fdetimes.net/en/jobs/salesforce-jr358258/
+blackrock-r266856,BlackRock,"Forward Deployed Business Analyst, Associate - BTO","New York, NY",US,early,105000,137500,2026-10-26,https://fdetimes.net/en/jobs/blackrock-r266856/
+databricks-8916552002,Databricks,Senior Forward Deployed Engineer (Technical Data Architect),"London, United Kingdom",GB,senior,,,2026-10-26,https://fdetimes.net/en/jobs/databricks-8916552002/
 databricks-8910850002,Databricks,Forward Deployed Engineering Manager,"London, United Kingdom",GB,senior,,,2026-10-26,https://fdetimes.net/en/jobs/databricks-8910850002/
 thomsonreuters-jreq204745,Thomson Reuters,"Senior Legal Engineer, Legal Products Forward Deployed Engineering (FDE)","United States of America, Frisco, Texas",US,senior,109000,203000,2026-10-26,https://fdetimes.net/en/jobs/thomsonreuters-jreq204745/
 salesforce-jr365350,Salesforce,Forward Deployed Engineer - Greek,Ireland - Dublin,IE,mid,,,2026-10-26,https://fdetimes.net/en/jobs/salesforce-jr365350/
@@ -221,6 +223,7 @@ assemblyai-4747365005,AssemblyAI,"Forward Deployed Engineer, Triage (NYC)",New Y
 assemblyai-4747340005,AssemblyAI,"Forward Deployed Engineer, Triage (SF)",San Francisco ,US,mid,115000,135000,2026-10-23,https://fdetimes.net/en/jobs/assemblyai-4747340005/
 lovable-2bad82d6-3fd0-42a2-afbf-f1e9511057d4,Lovable,Forward Deployed Engineering Lead,New York City,US,senior,,,2026-10-23,https://fdetimes.net/en/jobs/lovable-2bad82d6-3fd0-42a2-afbf-f1e9511057d4/
 adyen-8002425,Adyen,Senior Forward Deployed Engineer,Amsterdam,NL,senior,,,2026-10-23,https://fdetimes.net/en/jobs/adyen-8002425/
+databricks-8910846002,Databricks,Associate Forward Deployed Engineer,"Mountain View, California",US,early,,,2026-10-23,https://fdetimes.net/en/jobs/databricks-8910846002/
 palantir-6940fc9a-b79c-4935-a90f-1c6a02e54fb1,Palantir,Deployment Strategist - Germany Forward Deployed,"Washington, D.C.",US,mid,110000,170000,2026-10-23,https://fdetimes.net/en/jobs/palantir-6940fc9a-b79c-4935-a90f-1c6a02e54fb1/
 palantir-7ea66860-ae93-4139-9388-b7284cb33f37,Palantir,Forward Deployed Software Engineer,"Chicago, IL",US,mid,135000,200000,2026-10-23,https://fdetimes.net/en/jobs/palantir-7ea66860-ae93-4139-9388-b7284cb33f37/
 amplitude-326944c1-7623-4ae4-bd92-fc0cc5b8b503,Amplitude,Engineering: Senior Customer Forward Deployed Engineer,San Francisco ,US,senior,165000,247000,2026-10-23,https://fdetimes.net/en/jobs/amplitude-326944c1-7623-4ae4-bd92-fc0cc5b8b503/
@@ -245,6 +248,7 @@ palantir-37780e70-c7af-45e1-9be7-071df201c387,Palantir,"Deployment Strategist, N
 salesforce-jr365349,Salesforce,Forward Deployed Engineer,South Africa - Johannesburg,,mid,,,2026-10-22,https://fdetimes.net/en/jobs/salesforce-jr365349/
 palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb,Palantir,"Forward Deployed Software Engineer, Internship - Warp Speed","New York, NY",US,early,,,2026-10-22,https://fdetimes.net/en/jobs/palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb/
 palantir-66b495eb-aaf9-4bf9-a759-41854534add7,Palantir,"Forward Deployed Software Engineer, New Grad - Warp Speed","New York, NY",US,early,135000,145000,2026-10-22,https://fdetimes.net/en/jobs/palantir-66b495eb-aaf9-4bf9-a759-41854534add7/
+databricks-8907988002,Databricks,Associate Forward Deployed Engineer,"New York City, New York",US,early,,,2026-10-22,https://fdetimes.net/en/jobs/databricks-8907988002/
 databricks-8684079002,Databricks,"Sr. Technical Program Manager, FDE - LATAM",USCA,,senior,,,2026-10-22,https://fdetimes.net/en/jobs/databricks-8684079002/
 salesforce-jr358360,Salesforce,Forward Deployed Engineer,Ireland - Dublin,IE,mid,,,2026-10-22,https://fdetimes.net/en/jobs/salesforce-jr358360/
 salesforce-jr353446,Salesforce,Deployment Strategist,France - Paris,FR,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr353446/
@@ -273,7 +277,6 @@ salesforce-jr348976,Salesforce,Deployment Strategist,Israel - Tel Aviv,IL,mid,,,
 salesforce-jr346373,Salesforce,Forward Deployed Engineer,United Kingdom - London,GB,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr346373/
 salesforce-jr363024,Salesforce,Forward Deployed Engineer,France - Paris,FR,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr363024/
 salesforce-jr364074,Salesforce,Forward Deployed Engineer - Norway,Norway - Oslo,NO,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr364074/
-salesforce-jr363677,Salesforce,Forward Deployed Engineer - Public Sector,United Kingdom - London,GB,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr363677/
 salesforce-jr363569,Salesforce,Forward Deployed Engineer Dutch/German speakers,Ireland - Dublin,IE,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr363569/
 salesforce-jr363570,Salesforce,Forward Deployed Engineer French/Arabic speakers,Ireland - Dublin,IE,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr363570/
 salesforce-jr362407,Salesforce,Forward Deployed Process Consultant,United Kingdom - London,GB,mid,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr362407/
@@ -287,7 +290,6 @@ salesforce-jr348954,Salesforce,"Principal Forward Deployed Engineer, Italian Spe
 salesforce-jr353428,Salesforce,"Principal, Forward Deployed Engineer",France - Paris,FR,senior,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr353428/
 salesforce-jr350080,Salesforce,"Senior Forward Deployed Engineer, Hebrew Speaking",Israel - Tel Aviv,IL,senior,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr350080/
 salesforce-jr348964,Salesforce,"Senior Forward Deployed Engineer, Italian Speaking",Italy - Rome,,senior,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr348964/
-salesforce-jr363565,Salesforce,"Senior Forward Deployed Engineer, Italian Speaking",Italy - Rome,,senior,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr363565/
 salesforce-jr343861,Salesforce,Senior/Principal Forward Deployed Engineer - New Zealand,New Zealand - Auckland,,senior,,,2026-10-21,https://fdetimes.net/en/jobs/salesforce-jr343861/
 thomsonreuters-jreq203837,Thomson Reuters,"Principal Software Engineer / Architect – AI, CoCounsel FDE","United States of America, New York, New York",US,senior,183100,340000,2026-10-21,https://fdetimes.net/en/jobs/thomsonreuters-jreq203837/
 thomsonreuters-jreq200170,Thomson Reuters,"Senior Software Engineer - AI, CoCounsel FDE","United States of America, Frisco, Texas",US,senior,127000,235000,2026-10-21,https://fdetimes.net/en/jobs/thomsonreuters-jreq200170/
@@ -348,7 +350,6 @@ anthropic-5449229008,Anthropic,Staff Forward Deployed Engineer,"New York City, N
 vercel-5778418004,Vercel,Forward-Deployed Engineer,"Hybrid - London, Berlin",GB,mid,,,2026-10-14,https://fdetimes.net/en/jobs/vercel-5778418004/
 palantir-4775e970-ade8-4a0d-8145-9255dc4cbac9,Palantir,Deployment Strategist - US Government,"Laurel, MD",,mid,,,2026-10-13,https://fdetimes.net/en/jobs/palantir-4775e970-ade8-4a0d-8145-9255dc4cbac9/
 palantir-29630180-0f10-4826-801f-12e226d3c7f1,Palantir,Forward Deployed Software Engineer - US Government,"Laurel, MD",,mid,,,2026-10-13,https://fdetimes.net/en/jobs/palantir-29630180-0f10-4826-801f-12e226d3c7f1/
-databricks-8884753002,Databricks,Senior Forward Deployed Engineer (Technical Data Architect),"London, United Kingdom",GB,senior,,,2026-10-13,https://fdetimes.net/en/jobs/databricks-8884753002/
 saronic-7cef0134-d492-45c1-92d5-f0716ed7aa24,Saronic,Electrical Engineer - Forward Deployed,"Austin, TX",US,mid,,,2026-10-13,https://fdetimes.net/en/jobs/saronic-7cef0134-d492-45c1-92d5-f0716ed7aa24/
 saronic-fd7aa7cb-8036-43a2-82b1-c451469a8d1a,Saronic,Mechanical Engineer - Forward Deployed,"Austin, TX",US,mid,,,2026-10-13,https://fdetimes.net/en/jobs/saronic-fd7aa7cb-8036-43a2-82b1-c451469a8d1a/
 palantir-44d3394e-003e-4609-b864-ff141e233635,Palantir,Deployment Strategist - US Government,"Norfolk, VA",,mid,,,2026-10-12,https://fdetimes.net/en/jobs/palantir-44d3394e-003e-4609-b864-ff141e233635/
