@@ -3,7 +3,7 @@
 Every open Forward Deployed Engineer (FDE) role that [FDE Times](https://fdetimes.net/en/jobs/) tracks, collected mostly from the public
 Greenhouse, Ashby and Lever career boards of the companies that hire FDEs. Updated daily.
 
-**As of 2026-10-30: 632 open roles at 95 companies.** Median posted base pay (midpoint of the range) across 220 US posts: **$216k**.
+**As of 2026-10-31: 629 open roles at 94 companies.** Median posted base pay (midpoint of the range) across 215 US posts: **$216k**.
 
 - Live tracker: [FDE Hiring Tracker](https://fdetimes.net/en/fde-hiring/)
 - Pay analysis: [FDE salary: what job posts actually pay](https://fdetimes.net/en/fde-salary/)
@@ -31,13 +31,13 @@ The same file is served at https://fdetimes.net/data/fde-jobs.csv.
 
 | Company | Open roles |
 |---|---|
-| Databricks | 114 |
+| Databricks | 113 |
 | Palantir | 106 |
 | Salesforce | 32 |
 | OpenAI | 32 |
 | Rogo | 17 |
 | Scale AI | 15 |
-| Cohere | 12 |
+| Cohere | 13 |
 | Cognition | 11 |
 | Cursor | 11 |
 | ElevenLabs | 11 |
